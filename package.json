@@ -31,7 +31,7 @@
     "@hapi/joi": "^16.1.7",
     "@hapi/scooter": "^5.1.1",
     "@hapi/vision": "^5.5.4",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "blankie": "^4.1.1",
     "firebase-admin": "^8.7.0",
     "handlebars": "^4.5.1",
