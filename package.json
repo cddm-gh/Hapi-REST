@@ -34,7 +34,7 @@
     "bcrypt": "^3.0.6",
     "blankie": "^4.1.1",
     "firebase-admin": "^8.7.0",
-    "handlebars": "^4.5.1",
+    "handlebars": "^4.5.3",
     "hapi-dev-errors": "^3.3.0",
     "uuid": "^3.3.3"
   }
