@@ -32,7 +32,7 @@
     "@hapi/scooter": "^5.1.1",
     "@hapi/vision": "^5.5.4",
     "bcrypt": "^3.0.6",
-    "blankie": "^4.1.1",
+    "blankie": "^5.0.0",
     "firebase-admin": "^8.7.0",
     "handlebars": "^4.5.1",
     "hapi-dev-errors": "^3.3.0",
